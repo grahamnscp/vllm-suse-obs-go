@@ -1,0 +1,15 @@
+# vendor/
+.DS_Store
+*/.DS_Store
+
+# config
+.envrc
+
+# Misc
+*.swp
+*/*.swp
+dev/*
+
+# go
+go.sum
+*/go.sum

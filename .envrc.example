@@ -1,0 +1,10 @@
+# .envrc
+
+# SUSE vLLM
+export OPENAI_HOSTNAME=suse-vllm.example.com
+export OPENAI_API_KEY=suse-vllm-api-key-value
+
+# SUSE Obs
+export SUSEOBS_EXPORTER_OTLP_HOSTNAME="otlp-http-suse-obs.example.com:80"
+export SUSEOBS_CLIENT_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
